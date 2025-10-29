@@ -4,7 +4,7 @@ title: About
 ---
 ## About this web :
 
-Halaman Web ini untuk anak-anak Mahasiswa Informatika UMMU Ternate sekedar sharing Pengetahuan tentang Mata Kuliah Pemrograman Berorientasi Objek (PBO).
+Halaman Web ini untuk anak-anak Mahasiswa Informatika UMMU Ternate sekedar sharing Pengetahuan tentang Mata Kuliah Grafika Komputer.
 
 
 ***

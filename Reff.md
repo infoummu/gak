@@ -6,10 +6,10 @@ description: Reff
 
 ### Download Referensi Tambahan Python (PDF):
 
-Materi Tambahan untuk Praktikum Mata Kuliah `PBO`, dan sebagai referensi tambahan berikut adalah file PDF yang dapat dibaca2 serta link materi Python yang tersedia online :
+Materi Tambahan untuk Praktikum Mata Kuliah `Grafika Komputer`, dan sebagai referensi tambahan berikut adalah file PDF yang dapat dibaca2 serta link materi Python yang tersedia online :
 
 
-#### File PDF :
+#### File PDF (Referensi unuk python) :
 1. [Belajar Pemrograman Python Dasar - Ridwan Fadjar Septian - PDF](assets/reff/pbo/python-dasar-poss-upi.pdf){:target="_blank"}
 2. [Cepat Mahir Python - Hendri - PDF](assets/reff/pbo/cepat-mahir-python-kuliahkomputer.pdf){:target="_blank"}
 3. [Buku Panduan Pemrograman Python - PUSPINDES & Relawan TIK - PDF](assets/reff/pbo/Buku_Pengenalan_Python.pdf){:target="_blank"}

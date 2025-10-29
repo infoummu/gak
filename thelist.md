@@ -12,6 +12,9 @@ description: The List of my Students
 
 * Daftar Nama-nama yang Sudah Buat Tugas Sebelumnya dan sudah ada Akun Github Info 3: 
 
+* Sementara Daftar Kosong, karna halaman ini beralih menjadi halaman MK Grafika Komputer
+
+<!-- 
 |No.    | Nama Mahasiswa    | Akun Github   |
 |:------|:------------------|:--------------|
 |1.     |Efan Umagapi          |  [https://github.com/sanana14/](https://github.com/sanana14/){:target="_blank"}        |
@@ -45,7 +48,7 @@ description: The List of my Students
 | 11.   | Diki F. Marjani_23093       | [https://github.com/DIKI30/](https://github.com/DIKI30/){:target="_blank"}                         |
 | 12.   | Andry Shevcenco Rondo_23096 | [https://github.com/andryrondo123/](https://github.com/andryrondo123/){:target="_blank"}           |
 | 13.   | Siti Khumayra A. Habsy_23103| [https://github.com/khumayra07/](https://github.com/khumayra07/){:target="_blank"}                 |
-
+ -->
 
 
 ***
