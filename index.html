@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1 class="page-heading">Posts</h1>
+  
+    <ul class="post-list">
+      {% assign previous_year = null %}
+      {% for post in site.posts %}
+        {% assign current_year = post.date | date: "%Y" %}
+        {% if previous_year and current_year != previous_year %}
+          <hr style="width: 100%; margin-left: 0; border: none; border-top: 1.5px solid;">
+        {% elsif previous_year %}
+          <hr style="width: 200px; margin-left: 0; border: none; border-top: 0.6px dotted; border-spacing: 15px;">
+        {% endif %}
+        <li>
+			<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          	<time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta by-line"> {{ post.date | date: "%-d %B %Y" }}  | <i>{{ post.author }}</i> </time> 
+          	<p class="post-meta by-line">{{ post.description }}</p>
+        </li>
+        {% assign previous_year = current_year %}
+      {% endfor %}
+    </ul>
+  
+</div>
+
+
+<!-- Add at 29/12/2024 -->
+<!-- 
+<div class="home">
+	<h1 class="page-heading">Posts</h1>  
+	<ul class="post-list">
+	  {% for post in site.posts %}
+		<hr style="width: 200px; margin-left: 0; border: none; border-top: 0.6px dotted; border-spacing: 15px;">
+		<li>
+		  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta by-line"> {{ post.date | date: "%-d %B %Y" }}  | <i>{{ post.author }}</i> </time> 
+		  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>        
+		  <p class="post-meta by-line">{{ post.description }}</p>
+		</li>
+	 {% endfor %}
+	</ul> 
+</div>
+-->
+  
+
+
+<!-- nonaktif 29/12/2024
+<div >
+<a href="KuliahPBO-2024">
+<h2> Mata Kuliah PBO Info 3 dan Info 4 </h2>
+Untuk Informasi Seputar <code class="highlighter-rouge"><b>Mata Kuliah PBO</b></code> silahkan masuk ke sini, Informasi tentang Pertemuan, Materi yang akan dibahas dan Tugas serta arahan-arahan 
+akan disediakan di tautan ini. </a>
+
+</div>
+ -->
+
+
+
+
+
+<!--<hr />-->
+<!--yang ini TIDAK DIGUNAKAN, original dari hacker-blog themes-->
+<!-- 
+<ul>
+   {% for post in site.posts %}
+     <li>
+         <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+         <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+     </li>
+   {% endfor %}
+</ul> 
+-->
+
+
+<!--yang dibawah ini yang digunakan -->
+<!-- <ul>
+	{% for post in site.posts limit:12 %}
+
+	  <li class="post">
+	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}.html">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> | {{post.categories}}</time> 
+	  	 <p>{{ post.content | strip_html | truncatewords:60 }}</p> 
+	  </li>
+
+    {% endfor %} 
+</ul>
+<hr> -->
+

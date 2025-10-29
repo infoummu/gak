@@ -1,2 +1,2 @@
-# gak
-Page Untuk Informasi seputar Mata Kuliah Grafika Komputer, Materi dan Kumpul Tugas, kelas Info1 sampai Info5.
+# PBO
+Page Informasi untuk Mahasiswa Jurusan Informatika UMMU kelas Info3 dan Info4 untuk sekedar sharing hal yang berhubungan dengan Mata Kuliah Pemrograman Berorientasi Objek.
