@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kuliah Grafika Komputer - Basic Draw Line - P4
-date:   2025-10-29 01:12:11 -0500
 author: Ikhwan Elyas
 description: Lanjutan dalam bentuk Tugas, Pada praktikum ini mahasiswa mempelajari dasar penggunaan Pygame untuk grafika komputer, meliputi inisialisasi modul, pembuatan jendela tampilan, pengaturan warna, dan pemrosesan event agar aplikasi tidak langsung tertutup serta modifikasi code untuk praktik draw line.
 ---
@@ -41,7 +40,7 @@ python3 praktikum4_tugas1_23001.py
 3. Jika sudah mendapatkan hasil tampilan yang sesuai dengan yang di gambar, silahkan `UPLOAD KODE-nya` sekalian `ABSEN` di `link` berikut: [[Absen dan Upload Tugas](https://gak.tifor.site/){:target="_blank"}] 
 
 
-4. **Batas Isi Absen dan Upload File tugas hari ini (30/10/2025) Jam 00.00 (12 malam)**.
+4. **Batas Isi Absen dan Upload File tugas hari ini (31/10/2025) Jam 00.00 (12 malam)**.
 
 Berikut kode awal sebagai rujukan:
 ```python
