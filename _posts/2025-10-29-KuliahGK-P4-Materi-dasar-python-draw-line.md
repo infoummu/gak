@@ -30,9 +30,9 @@ atau jika menggunakan Windows:
 python3 praktikum4_tugas1_23001.py
 ```
 
-### ✅ TUGASNYA: 
+### ✅ TUGAS PENGGANTINYA: 
 
-1. Silahkan `MODIFIKASI KODE` berikut agar menghasilkan tampilan sebagaimana gambar berikut: 
+1. Silahkan anda `MODIFIKASI KODE` berikut agar dapat menghasilkan tampilan persis sebagaimana gambar berikut, lakukan Perubahan code dan jalankan lalu lihat hasilnya, jika belum sesuai lakukan perubahan code kembali sampai mendapatkan hasil seperti gambar dibawah: 
 
 ![Gambar Tugas1](/gak/assets/img/tugas1_gak.png)
 
