@@ -34,12 +34,14 @@ python3 praktikum4_tugas1_23001.py
 
 1. Silahkan anda `MODIFIKASI KODE` berikut agar dapat menghasilkan tampilan persis sebagaimana gambar berikut, lakukan Perubahan code dan jalankan lalu lihat hasilnya, jika belum sesuai lakukan perubahan code kembali sampai mendapatkan hasil seperti gambar dibawah: 
 
-![Gambar Tugas1](/gak/assets/img/tugas1_gak.png)
+   ![Gambar Tugas1](/gak/assets/img/tugas1_gak.png)
 
 2. Ukuran box (`display`) Menyesuaikan, `Backgroud-nya` warna `ke-Hijauan`, dan warna Garisnya `Kuning`, serta `posisi garis` ada di sebelah kanan (50 px dari kanan )
 
-2. Jika sudah mendapatkan hasil tampilan yang sesuai dengan yang di gambar, silahkan `UPLOAD KODE-nya` sekalian `ABSEN` di `link` berikut: [[Absen dan Upload Tugas](https://gak.tifor.site/){:target="_blank"}] 
+3. Jika sudah mendapatkan hasil tampilan yang sesuai dengan yang di gambar, silahkan `UPLOAD KODE-nya` sekalian `ABSEN` di `link` berikut: [[Absen dan Upload Tugas](https://gak.tifor.site/){:target="_blank"}] 
 
+
+4. **Batas Isi Absen dan Upload File tugas hari ini (30/10/2025) Jam 00.00 (12 malam)**.
 
 Berikut kode awal sebagai rujukan:
 ```python
