@@ -2,7 +2,7 @@
 layout: post
 title:  Kuliah Grafika Komputer - Basic Draw Circle - P6
 author: Ikhwan Elyas
-description: Lanjutan dalam bentuk Tugas, Pada praktikum ini mahasiswa mempelajari dasar penggunaan Pygame untuk grafika komputer, meliputi inisialisasi modul, pembuatan jendela tampilan, pengaturan warna, dan pemrosesan event agar aplikasi tidak langsung tertutup serta modifikasi code untuk praktik draw circle.
+description: Lanjutan Materi Grafika Komputer offline, Pada praktikum ini mahasiswa mempelajari dasar penggunaan Pygame untuk grafika komputer untuk menggambar lingkaran, meliputi inisialisasi modul, pembuatan jendela tampilan, pengaturan warna, dan pemrosesan event agar aplikasi tidak langsung tertutup serta modifikasi code untuk praktik draw circle.
 ---
 
 
