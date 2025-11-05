@@ -67,7 +67,7 @@ BLACK = (0, 0, 0)
 
 # Memuat gambar background
 try:
-    background = pygame.image.load('background.jpg')  # Ganti dengan path gambar Anda
+    background = pygame.image.load('grase.jpeg')  # Ganti dengan path gambar Anda
     # Mengatur ukuran background sesuai layar
     background = pygame.transform.scale(background, (SCREEN_WIDTH, SCREEN_HEIGHT))
 except:
@@ -78,7 +78,7 @@ except:
 
 # Memuat gambar foreground (karakter atau objek)
 try:
-    character = pygame.image.load('character.png')  # Ganti dengan path gambar Anda
+    character = pygame.image.load('kelinci.webp')  # Ganti dengan path gambar Anda
     # Mengatur ukuran character
     character_width = 200
     character_height = 300
@@ -147,7 +147,7 @@ sys.exit()
 3. **Memuat dan Mengatur Gambar**
 
     ```python
-    background = pygame.image.load('background.jpg')
+    background = pygame.image.load('grase.jpeg')
     background = pygame.transform.scale(background, (SCREEN_WIDTH, SCREEN_HEIGHT))
     ```
     - Memuat gambar dan mengubah ukurannya sesuai layar
@@ -175,8 +175,8 @@ sys.exit()
 ### Langkah-langkah Praktikum
 **Langkah 1: Persiapan File Gambar**
 1. Siapkan dua gambar:
-    - background.jpg (gambar landscape/latar belakang)
-    - character.png (gambar objek/karakter dengan transparansi)
+    - grase.jpeg (gambar landscape/latar belakang)
+    - kelinci (gambar objek/karakter dengan transparansi)
 
 2. Letakkan gambar dalam folder yang sama dengan script Python
 
