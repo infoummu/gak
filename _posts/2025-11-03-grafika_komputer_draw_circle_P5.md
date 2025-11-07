@@ -6,6 +6,14 @@ description: Lanjutan Materi Grafika Komputer offline, Pada praktikum ini mahasi
 ---
 
 
+## * **Arahan Praktikum (Info3 & Info4):**  
+1. Lakukan Praktikum masing2
+2. Simpan Hasil Praktiku-nya dengan nama `praktikum5_circle_npm.py` (ganti npm dengan npm anda), 
+3. Jika dijalankan dan sudah mendapatkan hasil yang sesuai arahan, silahkan UPLOAD file hasil praktikumnya, 
+4. `LINK` untuk `UPLOAD` File Praktikum: [[**upload_file**](https://gak.tifor.site){:target="_blank"}]
+5. **Batas Kumpul** File Praktikum **hari ini (07/11/2025) jam 24.00**.
+
+--- 
 
 Di modul praktikum mata kuliah Grafika Komputer pada sesi kali ini, kita akan mempelajari cara menggambar objek dasar 2D, yaitu **lingkaran**, menggunakan library Pygame di Python.
 
