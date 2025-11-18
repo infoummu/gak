@@ -36,7 +36,7 @@ Fungsi ini akan membaca file gambar dari disk dan membuat objek `Surface` baru y
 ![Gambar Kelinci](/gak/assets/img/p7-kelinci.webp){:width="150px" height="150px"}
 
 #### 3. Kode Lengkap
-Salin dan simpan kode berikut sebagai file Python (misalnya `main.py`):
+Salin dan simpan kode berikut sebagai file Python (misalnya `praktikum6_load_image.py`):
 
 ```python
 import pygame

@@ -47,7 +47,7 @@ Gambar ditampilkan menggunakan blit() pada surface:
 screen.blit(gambar, (x, y))
 ```
 
-Contoh Program Lengkap
+Contoh Program Lengkap, silahkan simpan dengan nama **`praktikum7_load-image.py`**:
 ```python
 import pygame
 import sys
@@ -190,6 +190,7 @@ sys.exit()
 2. Ubah posisi karakter
 3. Coba tambahkan gambar ketiga
 4. Eksperimen dengan efek transformasi lainnya
+    contoh, tambah baris:  **`character_x, character_y = character_x+5, character_y+5`**
 
 **Format Gambar yang Didukung**
 - JPEG (.jpg, .jpeg)
@@ -219,6 +220,7 @@ sys.exit()
 
 **Catatan:**
 - Pastikan semua file gambar berada dalam direktori yang sama dengan script Python, atau berikan path yang benar ke file gambar tersebut.
+
 
 
 ---
