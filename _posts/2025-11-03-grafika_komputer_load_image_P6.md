@@ -57,15 +57,13 @@ pygame.display.set_caption("Praktikum 6: Memuat Gambar")
 try:
     # pygame.image.load() akan mengembalikan sebuah Surface
     gambar_pemain = pygame.image.load('kelinci.webp').convert_alpha()
+    gambar_pemain = pygame.transform.scale(gambar_pemain, (100,100))
 except pygame.error as e:
     # Jika file tidak ditemukan, program akan keluar
     print(f"Error: Tidak dapat memuat gambar 'kelinci.webp'")
     print(e)
     sys.exit()
 
-# 4. Mendapatkan object Rect dari Surface gambar untuk memposisikan
-# Kita atur posisi tengah gambar agar sama dengan tengah layar
-posisi_gambar = gambar_pemain.get_rect(center=(lebar_layar // 2, tinggi_layar // 2))
 
 # 5. Game Loop (Perulangan Utama)
 while True:
@@ -82,7 +80,7 @@ while True:
 
     # "Blit" atau gambar Surface 'gambar_pemain' ke 'layar'
     # pada posisi yang ditentukan oleh 'posisi_gambar'
-    layar.blit(gambar_pemain, posisi_gambar)
+    layar.blit(gambar_pemain, (50,50))
 
     # 8. Update seluruh tampilan layar
     pygame.display.flip()
