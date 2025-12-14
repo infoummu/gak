@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Grafika Komputer - Git dan Buat Akun di github untuk Projek Game P14
+title:  Grafika Komputer - Buat Akun dan Projek di github - P14
 author: Ikhwan Elyas
 description: Materi Grafika Komputer Pada praktikum ini mahasiswa mempelajari git dan membuat akun di github guna mengerjakan projek game menggunakan Pygame modul secara kalaborasi, tool git dan github merupakan hal yang harus diplajari oleh programmer dan calon2 developer.
 ---
